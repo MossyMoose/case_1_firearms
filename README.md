@@ -1,4 +1,4 @@
-# case_1_healthcare
+# case_2_firearms
 
 Welcome to ProjectTemplate!
 
